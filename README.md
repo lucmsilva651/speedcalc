@@ -1,2 +1,2 @@
 # speedcalc
-Conversor de GB/MB e vice-versa.
+Conversor de KBps/MBps e vice-versa.
